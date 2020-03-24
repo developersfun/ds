@@ -1,6 +1,7 @@
 package org.nrj.trees;
 
 /**
+ * @author TheDevelopersFun
  * This class acts as a Node for Binary Tree.
  */
 public class TreeNode {
